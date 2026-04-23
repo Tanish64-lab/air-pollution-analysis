@@ -53,7 +53,13 @@ It includes data cleaning, exploratory data analysis (EDA), statistical analysis
 ## 📂 Project Files
 - `air_pollution_analysis.ipynb` → Main notebook  
 - Dataset file  
-- Report (PDF)  
+- Report (PDF)
+
+
+---
+
+## 🔄 Updates
+Project updated for pull request
 
 ---
 
